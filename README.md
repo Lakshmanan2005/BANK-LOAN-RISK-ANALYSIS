@@ -5,7 +5,7 @@ The goal is to help banks reduce default risk by understanding patterns based on
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 To build an interactive dashboard that:
 - Monitors loan portfolio performance
 - Identifies high-risk regions and customer segments
@@ -14,7 +14,7 @@ To build an interactive dashboard that:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Python** → Data cleaning, preprocessing, feature engineering  
 - **SQL** → Data querying, aggregation, and business logic  
 - **Power BI** → Dashboard creation and visualization  
